@@ -50,7 +50,8 @@ The best way to contact me is via [Twitter](https://twitter.com/nsjames_) DMs.
 
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=nsjames&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsjames&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<div style="display: flex; gap: 10px; justify-content: stretch;">
+    <img src="https://github-readme-stats.vercel.app/api?username=nsjames&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" height="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsjames&hide_border=true&layout=compact" align="left" style="width: 100%" height="100%" />
+</div>
 
