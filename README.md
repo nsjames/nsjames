@@ -1,17 +1,51 @@
-<h2 align=center>Hi! I'm Nathan James.</h2>
-<h3 align=center>I'm a senior developer who works primarily in the blockchain space.</h3>
-<br>
-<p align="center"> You can check out some of my work in the repositories in my github, or over at  <a href="https://ultra.io/" target="blank">Ultra</a> and <a href="https://eosnetwork.com/" target="blank">EOS Network Foundation</a>. <br /> 
-I've been on an incredible programming journey for over a decade, and now I teach others how to make the best our of theirs, and not make the mistakes I have. If you want to follow along make sure to follow my <a href="https://twitter.com/nsjames_" target="blank">Twitter account (@nsjames_)</a>
-</p>
-<br>
-<h2 align="left">Let's build and grow together:</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/nathan-s-james/" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan-s-james" height="30" width="40" /></a>
-</p>
-<p align="left">
-<a href="https://twitter.com/nsjames_" rel="noopener noreferrer" target="_blank"> <img src="https://img.shields.io/twitter/follow/nsjames_?logo=twitter&style=for-the-badge" alt="nsjames_" /></a>
-</p>
-<br>
+## Nathan James
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nsjames&show_icons=true&theme=graywhite)
+
+<a href="https://twitter.com/nsjames_" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/nsjames" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/nathan-s-james" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+
+
+
+
+### How can I help?
+If you want things done fast, well, and without bullshit, I'm your guy.
+
+The best way to contact me is via [Twitter](https://twitter.com/nsjames_) DMs.
+
+<br/>  
+
+
+## Skim-list
+- 15 years experience
+- Full stack developer
+- Blockchain
+- AI
+
+<br/>  
+
+
+## Languages and Tools
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
+</div>  
+
+<br/>  
+
+
+## Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=nsjames&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsjames&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
