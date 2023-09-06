@@ -28,6 +28,11 @@ The best way to contact me is via [Twitter](https://twitter.com/nsjames_) DMs.
 - Blockchain
 - AI
 
+## Preferred stack
+- TypeScript
+- SvelteKit / Nuxt.js
+- Firebase (or similar)
+
 <br/>  
 
 
