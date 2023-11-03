@@ -30,6 +30,9 @@ The best way to contact me is via [Twitter](https://twitter.com/nsjames_) DMs.
 - SvelteKit / Nuxt.js
 - Firebase (or similar)
 
+I know many other languages such as C++, C#, Scala, Python, PHP, as well as many other frameworks such as React, Vue, Play, Laravel, and many more. 
+I prefer however to work in languages that are quicker for me to launch products with.
+
 <br/>  
 
 
